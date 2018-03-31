@@ -12,6 +12,10 @@ section {
   flex-direction: column;
 }
 
+h1 {
+  margin-bottom: 0;
+}
+
 p {
   display: flex;
   max-width: 31.250em;
